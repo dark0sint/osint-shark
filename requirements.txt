@@ -1,0 +1,4 @@
+# List of dependencies for OSINT SHARK.
+flask==2.0.1
+requests==2.26.0
+apscheduler==3.7.0
